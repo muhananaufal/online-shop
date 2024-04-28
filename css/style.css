@@ -1239,7 +1239,7 @@ Version:1.0
 }
 .hero-slider .single-slider {
 	height: auto;
-	background-image: url('https://via.placeholder.com/1900x700');
+	background-image: url('images/jumbotron.jpg') !important;
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -5482,4 +5482,21 @@ textarea.modals-form-h-sm {
 .dropdown.so {
 	color: #333 !important;
 	background-color: #333 !important;
+}
+
+.jumbotron-title {
+	color: #00b4d8 !important;
+	font-size: 200% !important;
+}
+
+@media (min-width: 767px) {
+	.jumbotron-title {
+		font-size: 420% !important;
+	}
+}
+
+@media (max-width: 766px) {
+	.hero-slider .single-slider {
+		height: 100% !important;
+	}
 }
