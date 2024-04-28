@@ -5469,3 +5469,17 @@ textarea.modals-form-h-sm {
 .ig-white {
 	color: white !important;
 }
+
+.btn-paging {
+	color: #eaeaea !important;
+	background-color: #333 !important;
+}
+
+.btn-paging:hover {
+	background-color: #00b4d8 !important;
+}
+
+.dropdown.so {
+	color: #333 !important;
+	background-color: #333 !important;
+}
