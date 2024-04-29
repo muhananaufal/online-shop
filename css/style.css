@@ -5502,13 +5502,13 @@ textarea.modals-form-h-sm {
 }
 
 .carousel-control-prev-icon {
-	filter: invert(100%) !important;
-	-webkit-filter: invert(100%) !important;
+	filter: invert(25%) sepia() saturate(100000%) hue-rotate(200deg) !important;
+	-webkit-filter: invert(25%) sepia() saturate(100000%) hue-rotate(200deg) !important;
 }
 
 .carousel-control-next-icon {
-	filter: invert(100%) !important;
-	-webkit-filter: invert(100%) !important;
+	filter: invert(25%) sepia() saturate(100000%) hue-rotate(200deg) !important;
+	-webkit-filter: invert(25%) sepia() saturate(100000%) hue-rotate(200deg) !important;
 }
 
 .desc-testimoni {
