@@ -5500,3 +5500,23 @@ textarea.modals-form-h-sm {
 		height: 100% !important;
 	}
 }
+
+.carousel-control-prev-icon {
+	filter: invert(100%) !important;
+	-webkit-filter: invert(100%) !important;
+}
+
+.carousel-control-next-icon {
+	filter: invert(100%) !important;
+	-webkit-filter: invert(100%) !important;
+}
+
+.desc-testimoni {
+	padding-left: 30% !important;
+	padding-right: 30% !important;
+}
+
+.my-carousel {
+	padding-top: 5% !important;
+	padding-bottom: 5% !important;
+}
